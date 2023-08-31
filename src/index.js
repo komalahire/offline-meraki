@@ -7,7 +7,6 @@ import reportWebVitals from "./reportWebVitals";
 
 import "./serviceWorkerRegistration";
 
-
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(<App />);
 
